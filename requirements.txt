@@ -1,0 +1,7 @@
+google-cloud-aiplatform[agent_engines]>=1.75.0
+google-adk>=0.1.0
+cloudpickle>=3.0.0
+google-adk>=0.1.0
+google-cloud-bigquery
+google-auth
+python-dotenv
